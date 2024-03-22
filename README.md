@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 ## :keyboard: LeetCode
 
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=devanshhandaji&theme=dark" alt="LeetCode Badges"/>
 
 ## :octocat: Stats
 
